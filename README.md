@@ -8,7 +8,7 @@ All prices are fictional. A Java simulator runs locally for real time updates
 
 ## Demo
 
-![Stock Watch app demo](docs/coroutine-demo.gif)
+<img src="docs/coroutine-demo.gif" alt="Stock Watch app demo" width="320">
 
 ## Overview
 
