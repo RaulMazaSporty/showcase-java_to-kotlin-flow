@@ -1,3 +1,27 @@
-# Project exclude paths
-/.gradle/
-/build/
+# Gradle and Kotlin build output
+.gradle/
+.kotlin/
+**/build/
+
+# Android Studio and IDE files
+.idea/
+*.iml
+
+# Machine-specific Android SDK path
+local.properties
+
+# Android native build output
+captures/
+.externalNativeBuild/
+.cxx/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Local signing credentials and generated packages
+*.jks
+*.keystore
+keystore.properties
+*.apk
+*.aab

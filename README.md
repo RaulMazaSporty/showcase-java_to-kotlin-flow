@@ -6,6 +6,10 @@ Kotlin Flow without rewriting the underlying connection mechanism.
 Created as a final project for the **kt.academy Kotlin Coroutines Mastery course**.
 All prices are fictional. A Java simulator runs locally for real time updates
 
+## Demo
+
+![Stock Watch app demo](docs/coroutine-demo.gif)
+
 ## Overview
 
 ```
