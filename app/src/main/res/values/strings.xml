@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Stock Watch</string>
+    <string name="market_watch">STOCK WATCH</string>
+    <string name="watchlist_title">Your watchlist</string>
+    <string name="watchlist_description">Follow your favourite companies with live price updates.</string>
+    <string name="simulated_feed">SIMULATED · USD</string>
+    <string name="waiting_for_prices">Waiting for the first prices…</string>
+    <string name="feed_unavailable">Live prices interrupted. Try reconnecting.</string>
+    <string name="retry">Reconnect</string>
+    <string name="no_price_yet">Awaiting price</string>
+    <string name="change_since_close">%1$s vs. previous close</string>
+    <string name="demo_disclaimer">Fictional prices for a Kotlin Coroutines demonstration. No real market connection.</string>
+    <string name="demo_controls">Demo controls</string>
+    <string name="select_companies">Choose companies to follow</string>
+    <string name="interrupt_feed">Interrupt feed</string>
+    <string name="burst_updates">Burst updates</string>
+    <string name="slow_processing">Slow processing</string>
+    <string name="slow_processing_detail">50 ms per update</string>
+    <string name="burst_hint">Enable slow processing, then burst updates to fill the buffer.</string>
+    <string name="empty_watchlist">Choose a company below to start following prices.</string>
+</resources>
